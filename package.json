@@ -1,6 +1,6 @@
 {
-  "name": "miniprogram-custom-component",
-  "version": "1.0.0",
+  "name": "hss-miniprogram-custom-component",
+  "version": "1.0.1",
   "description": "",
   "main": "miniprogram_dist/index.js",
   "scripts": {
@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wechat-miniprogram/miniprogram-custom-component.git"
+    "url": "https://github.com/hongsusu/wechat-miniprogram-demo.git"
   },
   "author": "wechat-miniprogram",
   "license": "MIT",

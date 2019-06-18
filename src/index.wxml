@@ -1,1 +1,1 @@
-<view class="index other">{{prop}}-{{flag}}</view>
+<view class="index other">测试小程序组件{{prop}}-{{flag}}</view>
